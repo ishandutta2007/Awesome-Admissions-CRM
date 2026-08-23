@@ -1,6 +1,6 @@
 # Awesome-Admissions-CRM
 
-# Top Admissions CRM Ecosystem
+## Top Admissions CRM Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Student Recruitment CRM, Inquiry Management, Application Tracking, Engagement, Communication & Enrollment Pipelines*
