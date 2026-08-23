@@ -68,7 +68,7 @@ Modern Admissions CRMs manage the entire student lifecycle journey:
 
 *High-impact open-source CRM, Student Information Systems (SIS), form builders, and engagement engines suitable for building self-hosted admissions workflows. Sorted descending by GitHub stargazers count.*
 
-| 📦 Project | 🌟 GitHub Stars | 💻 Tech Stack | 📖 Admissions &amp; Recruitment Capabilities |
+| 📦 Project | 🌟 GitHub_Stars | 💻 Tech Stack | 📖 Admissions &amp; Recruitment Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, PostgreSQL | Modern open-source CRM alternative to Salesforce; custom recruiting objects, visual kanban applicant pipelines, GraphQL APIs, and custom task workflows. |
 | **[Odoo Community](https://github.com/odoo/odoo)** | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | Modular ERP &amp; CRM suite; customizable Education modules, applicant stage tracking, automated email triggers, and custom registration web portals. |
