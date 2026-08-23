@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Element451](https://element451.com/)**  
-  Modern AI-powered admissions CRM and engagement platform built for higher education, combining marketing automation, conversational AI, application management, and student lifecycle tools.
-
-- **[Slate by Technolutions](https://technolutions.com/)**  
-  The leading higher-education admissions CRM in North America, offering deep customization, application reading, communications, events, travel management, and powerful data querying.
-
-- **[TargetX (Salesforce)](https://www.targetx.com/)**  
-  Higher-education CRM built on the Salesforce platform, providing recruitment, admissions, student success, and engagement capabilities for institutions using Salesforce.
-
-- **[SchoolAdmin](https://www.schooladmin.com/)**  
-  Admissions and enrollment CRM tailored for independent and private schools, covering inquiries, applications, events, communications, and enrollment contracts.
-
-- **[OpenApply](https://www.openapply.com/)**  
-  Online admissions and enrollment platform widely used by international and independent schools for application collection, document management, and family portals.
-
-- **[Blackbaud Enrollment Management](https://www.blackbaud.com/)**  
-  Enrollment and admissions tools within the Blackbaud ecosystem, popular with independent schools and institutions already using Blackbaud for advancement or student information.
-
-- **[Finalsite Enrollment](https://www.finalsite.com/)**  
-  Enrollment management and CRM solution focused on independent schools, supporting inquiry-to-enrollment workflows and family communication.
-
-- **[Classe365 CRM](https://www.classe365.com/)**  
-  Education CRM and student information system with admissions, recruitment, and engagement modules suitable for schools and higher-education institutions.
-
-- **[Veracross Admissions](https://www.veracross.com/)**  
-  Admissions and enrollment module within the Veracross SIS platform, commonly used by independent schools for managing the full application and enrollment process.
-
-- **[SchoolMint](https://www.schoolmint.com/)**  
-  Student enrollment, lottery, and admissions platform popular with public school districts and charter networks for application, placement, and registration management.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Element451](https://element451.com/)** | Modern AI-powered admissions CRM and engagement platform for higher education, combining marketing automation, conversational AI, and student lifecycle management. | ~$20,000 / year (base institutional recruitment & admissions suite) | No free tier or self-serve trial (Interactive live sandbox demo available upon request) |
+| **[Slate by Technolutions](https://technolutions.com/)** | The leading higher-education admissions CRM in North America, offering customizable application review, communications, events, and querying. | $30,000 / year (< 1,500 submitted applications/yr; unlimited users) | No free tier or self-serve trial (Free Start.edu student portal; custom institutional demo on request) |
+| **[TargetX (Salesforce)](https://www.targetx.com/)** | Higher-education CRM built on Salesforce, providing recruitment, admissions, and student success capabilities. | ~$30,000 / year (or ~$500 / month base for small teams + Salesforce core licensing) | No free tier or self-serve trial (Guided partner demo environment upon consultation) |
+| **[SchoolAdmin](https://www.schooladmin.com/)** | Admissions and enrollment CRM tailored for independent and private schools, covering inquiries, applications, and enrollment contracts. | ~$5,000 – $7,500 / year (scaled by enrolled student volume and active modules) | No free tier or trial (Live guided walkthrough demo with admissions specialists on request) |
+| **[OpenApply](https://www.openapply.com/)** | Online admissions and enrollment platform widely used by international and independent schools for application and document management. | ~$3,000 / year (annual subscription based on school size) | No free tier or trial for schools (Public interactive demo sandbox account; 100% free for applicants & families) |
+| **[Blackbaud Enrollment Management](https://www.blackbaud.com/)** | Enrollment and admissions tools within the Blackbaud ecosystem, popular with independent schools for admissions funnel tracking. | ~$8,000 / year (annual contract tiered by total student enrollment) | No free tier or self-serve trial (Guided live product demonstration upon request) |
+| **[Finalsite Enrollment](https://www.finalsite.com/)** | Enrollment management and CRM solution focused on independent schools, supporting inquiry-to-enrollment workflows. | ~$6,000 / year (annual base package for independent school admissions) | No free tier or trial (Custom 1-on-1 product evaluation and sandbox demo on request) |
+| **[Classe365 CRM](https://www.classe365.com/)** | Education CRM and SIS with admissions, applicant tracking, and engagement modules for schools and higher ed. | $50 / month (or $2 / student / month for base tier up to 100 students) | 15-day free trial (Full access to all CRM, SIS, and admissions modules; no credit card required) |
+| **[Veracross Admissions](https://www.veracross.com/)** | Admissions and enrollment module within the Veracross SIS platform, managing full application workflows for private schools. | ~$6,000 / year (~$500 / month base module fee for independent schools) | No free tier or trial (Guided personalized sandbox demo on request) |
+| **[SchoolMint](https://www.schoolmint.com/)** | Student enrollment, lottery, and admissions platform for public school districts and charter networks. | ~$2.00 / student / year (~$5,000 / year minimum institutional base fee) | No free tier or trial (Live district/charter admissions sandbox walkthrough on request) |
 
 ## Open-Source GitHub Projects
 
